@@ -1,0 +1,7 @@
+tensorflow==2.15.0
+datasets 
+transformers
+matplotlib
+seaborn 
+numpy
+sklearn
